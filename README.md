@@ -32,7 +32,7 @@ pie_chart: For interactive data visualization.
 
 csv: For generating exportable data reports.
 
-📦 Installation
+Installation
 
 To get this project running locally, follow these steps:
 
@@ -64,7 +64,7 @@ Run the App:
 flutter run
 
 
-📖 Usage
+Usage
 
 Set Income: Click the edit icon in the "SUMMARY" card to enter your monthly earnings.
 
@@ -75,4 +75,5 @@ Analyze: Use the pie chart to identify which categories consume most of your bud
 Get Advice: Tap the lightbulb icon in the month selector to open the AI Budget Assistant.
 
 Export: Tap the download icon to generate a CSV string of your current month's data (visible in the debug console).
+
 
