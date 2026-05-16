@@ -38,7 +38,7 @@ To get this project running locally, follow these steps:
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/budget-tracker.git](https://github.com/yourusername/budget-tracker.git)
+git clone [https://github.com/Mahir-bot-2003/finance-tracker-app]
 cd budget-tracker
 
 
